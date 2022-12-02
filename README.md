@@ -23,3 +23,4 @@ My first JavaFx App
 
 ## Download
 
+![Expression Tree Visualizer.exe](https://github.com/AceBurgundy/JAVAFx-ExpressionTree-Visualizer/raw/master/ExpressionTree.exe)
