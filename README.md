@@ -4,7 +4,7 @@
 
 ## 📸 Screenshots
 
-[UI](expression-tree-visualizer.gif)
+![UI](expression-tree-visualizer.gif)
 
 ## 🎯 Purpose
 
